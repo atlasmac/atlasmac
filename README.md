@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-### I'm a full stack web developer.
-### 100Devs
+### I'm a full stack web engineer @ #100Devs.
 <!--
 **atlasmac/atlasmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
