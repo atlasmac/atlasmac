@@ -2,6 +2,7 @@
 
 
 ### I'm a full stack web engineer @ #100Devs.
+### Missoula, MT
 <!--
 **atlasmac/atlasmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
