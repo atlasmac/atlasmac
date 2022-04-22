@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### 100Devs
-### I'm currently working on full stack web developement.
 
+### I'm currently working on full stack web developement.
+### 100Devs
 <!--
 **atlasmac/atlasmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
