@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 100Devs
-### I'm currently building web apps in HTML, CSS, and Javascript
+### I'm currently working on full stack web developement.
 
 <!--
 **atlasmac/atlasmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
