@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [atlasmckinley.com](atlasmckinley.com)
 
-- 📫 How to reach me **mckinleyatlas@gmail.com**
+- Reach me at **mckinleyatlas@gmail.com**
 
 - ⚡ Fun fact **I love to fly fish**
 
