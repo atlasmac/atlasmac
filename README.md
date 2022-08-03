@@ -7,7 +7,6 @@
 
 - Reach me at **mckinleyatlas@gmail.com**
 
-- Fun fact **I love to fly fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
