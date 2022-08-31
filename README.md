@@ -7,6 +7,8 @@
 
 - Reach me at **mckinleyatlas@gmail.com**
 
+- View the code for some of my freelance projects in the pinned section!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
