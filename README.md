@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mckinleyatlas" target="blank"><img src="https://img.shields.io/twitter/follow/mckinleyatlas?logo=twitter&style=for-the-badge" alt="mckinleyatlas" /></a> </p>
 
-- My projects are available here and at [atlasmckinley.com](atlasmckinley.com)
+- My projects are available here and at <a href="https://atlasmckinley.com" target="blank">Atlasmckinley.com</a>
 
 - Reach me at **mckinleyatlas@gmail.com**
 
