@@ -1,14 +1,6 @@
-<h1 align="center">I'm Atlas McKinley</h1>
-<h3 align="center">A passionate full stack software engineer</h3>
+<h1 align="center">Atlas</h1>
 
 <p align="left"> <a href="https://twitter.com/mckinleyatlas" target="blank"><img src="https://img.shields.io/twitter/follow/mckinleyatlas?logo=twitter&style=for-the-badge" alt="mckinleyatlas" /></a> </p>
-
-- My projects are available here and at <a href="https://atlasmckinley.com" target="blank">Atlasmckinley.com</a>
-
-- Reach me at **mckinleyatlas@gmail.com**
-
-- View some of my projects in the pinned section!
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
