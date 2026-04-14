@@ -22,4 +22,4 @@ I spend most of my time building React-based web applications, writing PL/SQL to
  
 ## Get In Touch
 
-- 📫 [mckinleyatlas@gmail.com](mailto:mckinleyatlas@gmail.com)
+- 𓉐 [mckinleyatlas@gmail.com](mailto:mckinleyatlas@gmail.com)
