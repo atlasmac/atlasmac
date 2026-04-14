@@ -21,3 +21,5 @@ I spend most of my time building React-based web applications, writing PL/SQL to
 **[Magic Moss](https://magicmoss.netlify.app/)** — A river surf condition tracker for standing waves across Montana, Idaho, and Wyoming. Pulls real-time flow data from USGS gauges and 7-day forecasts from NOAA so river surfers can check conditions before heading out. Built with Next.js, tRPC, Prisma, CockroachDB, and Leaflet, hosted on Netlify with hourly scheduled functions to keep data fresh.
  
 ## Get In Touch
+
+- 📫 [mckinleyatlas@gmail.com](mailto:mckinleyatlas@gmail.com)
