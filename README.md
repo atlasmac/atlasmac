@@ -1,5 +1,5 @@
-# Hey, I'm Atlas ><> , <>< , ><((°> , °))>< , <°)))><
- 
+# Hey, I'm Atlas ·˚ 𓆝 ·˚ 𓆞 ·˚ 𓆝 ·˚𓆝 𓆟 𓆞 𓆛 𓆜
+
 Full-stack developer and data engineer at the University of Montana with a focus on building reliable web applications, robust data pipelines, and working across backend environments.
  
 ## What I Work With
